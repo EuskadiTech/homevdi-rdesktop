@@ -18,6 +18,9 @@ RUN \
     mousepad \
     ristretto \
     thunar \
+    libreoffice \
+    thunderbird \
+    geany \
     util-linux-misc \
     xfce4 \
     xfce4-pulseaudio-plugin \
